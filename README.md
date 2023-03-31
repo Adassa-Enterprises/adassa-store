@@ -1,5 +1,5 @@
-# ADASSA Website
-ADASSA website
+# Adassa Website
+Adassa website
 
 ## Development
 
