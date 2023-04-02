@@ -205,7 +205,7 @@ header .logo img {
     }
 }
 
-.growth {
+.content {
     background-color: var(--theme-color);
     border-radius: 24px;
     margin: 0rem auto 5rem auto;
@@ -213,44 +213,18 @@ header .logo img {
     padding: 2rem 2rem;
 }
 
-.growth .stats {
-    display: flex;
-    flex-wrap: wrap;
-    background-color: var(--theme-color);
-    justify-content: space-evenly;
-    padding: 2rem;
-    max-width: 90%;
-    margin: -8rem auto;
-    border-radius: 24px;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-}
-
-.growth .stats div {
-    padding: 2rem;
-    text-align: center;
-}
-
-.growth .stats h1 {
-    font-size: 5rem;
-    text-shadow: 2px 2px 5px rgb(196, 196, 196);
-}
-
-.growth .stats p {
-    color: var(--theme-color);
-}
-
-.growth .info {
+.content .info {
     margin-top: 0rem;
     text-align: center;
 }
 
-.growth .info .tag-line {
+.content .info .tag-line {
     font-size: 4rem;
     font-weight: 600;
     margin-bottom: 2rem;
 }
 
-.growth .info .description {
+.content .info .description {
     color: var(--theme-text);
 }
 
